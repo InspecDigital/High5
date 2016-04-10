@@ -2,24 +2,32 @@
 
 body {
   background-color: #f8f7f7;
-  /* background-image: url(http://screwups-dev.inspecdigital.org/wp-content/uploads/2015/01/bkgd.jpg); */
-  background-size: container;
-  background-repeat: no-repeat;
-  background-position: top;
-  color: #000;
+  color: #1a1a1a;
+  padding-top: 0;
 }
 h1, h2, h3, h4 {
-  font-family: sans-serif;
-  color: #000;
-}
+  font-family: sans-serif;}
+
 h1 {
   font-size: 68px;
   font-family: 'Economica', sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
 }
+
 h2 {
   font-size: 48px;
   font-family: 'Economica', sans-serif;
 }
+
+h3 {
+  color: #007fb5;
+}
+
+p {
+  font-size: 1.2em;
+}
+
 a {
   color: blue;
 }
@@ -40,16 +48,16 @@ a:hover, a:focus, a:active {
 .btn-default,
 .btn-primary,
 .submit {
-  background: #fce04b ! important;
-  border-color: #fce04b ! important;
-  color: #361b14 ! important;
+  background: #ee362b ! important;
+  border-color: #ee362b ! important;
+  color: #fff ! important;
 }
 .btn-default:hover,
 .btn-primary:hover,
 .submit:hover {
-  background: #fff1a5 ! important;
-  border-color: #fce04b ! important;
-  color: #361b14 ! important;
+  background: #ee4f46 ! important;
+  border-color: #ee362b ! important;
+  color: #fff ! important;
 }
 .footer {
   background: #d8d8d8;
@@ -90,16 +98,24 @@ a:hover, a:focus, a:active {
   padding: 20px;
 }
 .hero-content h1 {
+  color: #ee362b;
   line-height: 1em;
   margin-top:0;
 }
 .hero-content p {
   font-size:2.2em;
 }
+
+.hero-content li {
+  font-size: 1.4em;
+}
+
 .hero-wrapper {
   position: relative;
   float: left;
-  border: 2px solid #361b14;
+  border: 2px solid #007fb5;
+  margin-bottom: 3em;
+  margin-top: 3em;
 }
 .home .row {
   margin-left: 0;
@@ -107,17 +123,34 @@ a:hover, a:focus, a:active {
 }
 
 .jumbotron {
-  background:url('/wp-content/themes/high5/images/BurgervilleDTVancouver.jpg');
+  background-image:url('/wp-content/themes/high5/images/BurgervilleDTVancouver.jpg');
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+
+.jumbotron-bkgd {
+  background-color: rgba(0,127,181,0.8);
+  padding:1em;
+}
+
+.jumbotron p {
+    margin-bottom: 15px;
+    font-size: 28px;
+    letter-spacing: 0.03em;
+    color: #fff;
+    text-shadow: 2px 2px #006089;
+
+}
+
+.nav {
+  padding-top: 60px;
 }
 
 .navbar {
   background: #f8f7f7;
   border: none;
+  border-radius: 0;
   box-shadow: 0px 0px 10px #000;
-}
-
-.navbar .navbar-form {
-  margin-top: 13px;
 }
 
 .navbar-default .navbar-nav > li > a,
@@ -129,7 +162,7 @@ a:hover, a:focus, a:active {
   letter-spacing: 0.1em;
   line-height: 1em;
   margin-right: 10px;
-  padding-left: 10px;
+  padding-left: 20px;
   padding-right: 10px;
   text-transform: uppercase;
   vertical-align: top;
@@ -140,6 +173,15 @@ a:hover, a:focus, a:active {
 .navbar-default .navbar-nav > .active > a:focus {
   background: none;
   color: red;
+}
+
+.navbar-brand {
+  float: none;
+}
+
+.page-title {
+  color: #ee362b !important;
+  text-align: center;
 }
 
 .panel {

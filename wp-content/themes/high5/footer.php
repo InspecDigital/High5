@@ -15,7 +15,7 @@
 					<?php wp_bootstrap_footer_links(); // Adjust using Menus in Wordpress Admin ?>
 				</nav>
 
-				<p class="pull-right">
+				<!-- <p class="pull-right">
 					<form class="navbar-form navbar-right" role="search" method="get" id="searchform" action="<?php echo home_url( '/' ); ?>">
 						<div class="input-group">
 							<input name="s" id="s" type="text" class="search-query form-control" autocomplete="off" placeholder="<?php _e('Search','wpbootstrap'); ?>">
@@ -24,7 +24,7 @@
 				      </span>
 						</div>
 					</form>
-				</p>
+				</p> -->
 
 				<p class="attribution">&copy; <?php bloginfo('name'); ?></p>
 
