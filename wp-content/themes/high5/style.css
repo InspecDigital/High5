@@ -36,6 +36,10 @@ a:hover, a:focus, a:active {
   text-decoration: underline;
 }
 
+.attribution {
+  float: right;
+}
+
 .bg-color-primary {
   background:none;
 }
@@ -64,6 +68,11 @@ a:hover, a:focus, a:active {
   margin-top: 30px;
   padding: 20px 0;
 }
+
+#content {
+  display: none;
+}
+
 .h2 {
   color: #000;
   font-family: sans-serif;
@@ -94,6 +103,11 @@ a:hover, a:focus, a:active {
   font-size:28px;
   margin-bottom:1em;
 }
+
+.footer {
+  margin-top: 0;
+}
+
 .hero-content {
   padding: 20px;
 }
@@ -123,27 +137,29 @@ a:hover, a:focus, a:active {
 }
 
 .jumbotron {
-  background-image:url('/wp-content/themes/high5/images/BurgervilleDTVancouver.jpg');
+  background-image:url('/wp-content/themes/high5/images/BurgervilleDTVancouver-blue.jpg');
   background-repeat:no-repeat;
   background-size:cover;
+  margin-bottom: 0;
 }
 
 .jumbotron-bkgd {
-  background-color: rgba(0,127,181,0.8);
+  /*background-color: rgba(0,127,181,0.2);*/
   padding:1em;
 }
 
 .jumbotron p {
     margin-bottom: 15px;
     font-size: 28px;
-    letter-spacing: 0.03em;
+    letter-spacing: 0.05em;
     color: #fff;
+    text-align: center;
     text-shadow: 2px 2px #006089;
 
 }
 
 .nav {
-  padding-top: 60px;
+  /* padding-top: 60px; */
 }
 
 .navbar {
@@ -161,7 +177,7 @@ a:hover, a:focus, a:active {
   font-size: 16px;
   letter-spacing: 0.1em;
   line-height: 1em;
-  margin-right: 10px;
+  /* margin-right: 10px; */
   padding-left: 20px;
   padding-right: 10px;
   text-transform: uppercase;
@@ -177,6 +193,11 @@ a:hover, a:focus, a:active {
 
 .navbar-brand {
   float: none;
+}
+
+.navbar-brand>img {
+    display: block;
+    width: 15%;
 }
 
 .page-title {
@@ -199,7 +220,8 @@ a:hover, a:focus, a:active {
 }
 
 .panel-title {
-  font-size: 2em;
+  font-size: 3.5em;
+  font-family: 'Economica', sans-serif;
 }
 
 .panel-title a:hover, .panel-title a:focus, .panel-title a:active {
@@ -213,4 +235,31 @@ a:hover, a:focus, a:active {
 }
 @media (min-width: 1200px) {
   .container { width: 970px; }
+}
+
+@media only screen and (max-width: 768px) {
+
+  .attribution {
+    float: none;
+    text-align: center;
+  }
+
+  .hero-content p {
+  font-size:1.666em;
+  text-align: center;
+  }
+
+  .jumbotron p {
+    font-size: 22px;
+  }
+
+  .navbar-brand>img {
+    padding-left: 44px;
+    width: 50%;
+  }
+
+  .panel-title {
+    font-size: 2.5em;
+  }
+
 }

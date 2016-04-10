@@ -50,12 +50,12 @@
 				        <span class="icon-bar"></span>
 				        <span class="icon-bar"></span>
 				    </button>
-			      <a class="navbar-brand" href="http://www.burgervilleworkersunion.org"><img class="img-responsive center-block" src="/wp-content/themes/high5/images/BWU-logo.png" alt="Burgerville Workers Union" width="120" /></a>
+			      <a class="navbar-brand" href="http://www.burgervilleworkersunion.org"><img class="img-responsive center-block" src="/wp-content/themes/high5/images/BWU-logo.png" alt="Burgerville Workers Union" /></a>
     			</div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
 			    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-			      <ul class="nav navbar-nav navbar-right">
+			      <ul class="nav navbar-nav">
 			        <li class="active"><a href="about">About <span class="sr-only">(current)</span></a></li>
 			        <li><a href="get-involved">Get Involved</a></li>
 			        <li><a href="donate">Donate</a></li>
@@ -109,7 +109,7 @@
 			  	<div class="col-lg-10 col-md-12 col-xs-12">
 				  	<p>The Burgerville Workers Union aims to deepen Burgerville’s commitment to the Pacific Northwest by making jobs at Burgerville the foundation of happy and healthy lives, and creating an independent way for Burgerville workers to connect to our communities.</p>
 					<p>We have a vision for a Burgerville where workers raise families, save money while attending school, take ownership over our work, and engage creatively and critically in our region.</p>
-					<p><strong>We’re excited about it, and we hope you are too.</strong></p>
+					<p><strong style="font-family: 'Economica', sans-serif; font-size:1.4em;">We’re excited about it, and we hope you are too.</strong></p>
 				</div>
 				<div class="col-lg-1"></div>
 			</div>
