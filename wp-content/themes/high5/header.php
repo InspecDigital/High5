@@ -61,6 +61,7 @@
 			        <li><a href="donate">Donate</a></li>
 			        <li><a href="news">News</a></li>
 			        <li><a href="contact">Contact</a></li>
+			        <li><a href="http://iww.org" target="_blank">I.W.W.</a></li>
 			      </ul>
 
 			    </div><!-- /.navbar-collapse -->
