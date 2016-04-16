@@ -104,6 +104,14 @@ a:hover, a:focus, a:active {
   margin-bottom:1em;
 }
 
+a .fa-2x {
+  color: #3d352f;
+}
+
+ a:hover .fa-2x, a:active .fa-2x, a:focus .fa-2x {
+  color: #75706b;
+}
+
 .footer {
   margin-top: 0;
 }
@@ -244,6 +252,10 @@ a:hover, a:focus, a:active {
     text-align: center;
   }
 
+  .fa-2x {
+    margin-bottom: 1em;
+  }
+
   .hero-content p {
   font-size:1.666em;
   text-align: center;
@@ -260,6 +272,11 @@ a:hover, a:focus, a:active {
 
   .panel-title {
     font-size: 2.5em;
+  }
+
+  .socialmedia {
+    margin-bottom: 1em;
+    text-align: center;
   }
 
 }

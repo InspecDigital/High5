@@ -16,6 +16,7 @@
 		<!-- wordpress head functions -->
 
 		<link href='https://fonts.googleapis.com/css?family=Economica:400,700' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
 
 		<?php wp_head(); ?>
 		<!-- end of wordpress head -->

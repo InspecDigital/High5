@@ -26,8 +26,12 @@
 					</form>
 				</p> -->
 
-				<p class="attribution">&copy; <?php bloginfo('name'); ?></p>
+				<div class="socialmedia">
+					<a href="http://facebook.com" style="margin-right: 1em;" target="_blank"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a><a href="http://twitter.com" style="margin-right: 1em;" target="_blank"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a><a href="http://youtube.com" style="margin-right: 1em;" target="_blank"><i class="fa fa-youtube-play fa-2x" aria-hidden="true"></i></a><a href="http://instagram.com" style="margin-right: 1em;" target="_blank"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a>
 
+
+				<p class="attribution">&copy; <?php bloginfo('name'); ?></p>
+				</div>
 			</div> <!-- end #inner-footer -->
 
 		</div>
