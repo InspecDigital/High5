@@ -152,7 +152,7 @@ a .fa-2x {
 }
 
 .jumbotron-bkgd {
-  background-color: rgba(0,127,181,0.5);
+  /*background-color: rgba(0,127,181,0.2);*/
   padding:1em;
 }
 
@@ -201,16 +201,28 @@ a .fa-2x {
 
 .navbar-brand {
   float: none;
-}
-
-.navbar-brand>img {
-    display: block;
-    width: 15%;
+  position: absolute;
+  width: 170px;
+  left: 50%;
+  margin: 0 -75px;
+  padding: 10px;
 }
 
 .page-title {
   color: #ee362b !important;
   text-align: center;
+}
+
+ul.nav {
+  width: 100%;
+  text-align: center;
+}
+
+ul.nav li {
+  float: none;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 12%;
 }
 
 .panel {
