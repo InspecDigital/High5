@@ -17,6 +17,7 @@
 
 		<link href='https://fonts.googleapis.com/css?family=Economica:400,700' rel='stylesheet' type='text/css'>
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+		<link rel='shortcut icon' href='/wp-content/themes/high5/images/favicon.ico' type='image/x-icon'/ >
 
 		<?php wp_head(); ?>
 		<!-- end of wordpress head -->

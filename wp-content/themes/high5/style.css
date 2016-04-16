@@ -152,7 +152,7 @@ a .fa-2x {
 }
 
 .jumbotron-bkgd {
-  /*background-color: rgba(0,127,181,0.2);*/
+  background-color: rgba(0,127,181,0.5);
   padding:1em;
 }
 
