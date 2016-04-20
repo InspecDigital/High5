@@ -52,7 +52,7 @@
 				        <span class="icon-bar"></span>
 				        <span class="icon-bar"></span>
 				    </button>
-			      <a class="navbar-brand" href="http://www.burgervilleworkersunion.org"><img class="img-responsive center-block" src="/wp-content/themes/high5/images/BWU-logo.png" alt="Burgerville Workers Union" /></a>
+			      <a class="navbar-brand" href="http://www.burgervilleworkersunion.org"><img class="img-responsive center-block" src="/wp-content/themes/high5/images/BWU-logo-whitebkgd.png" alt="Burgerville Workers Union" /></a>
     			</div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -87,18 +87,17 @@
 						<h1><span style="font-size: 70%; margin-right: 0.2em;" class="glyphicon glyphicon-star" aria-hidden="true"></span>Our Vision</h1>
 						<p style="line-height: 1em;">We want Burgerville to do right by their workers.  We want:</p>
 							<ol>
-							<li>$5.00/hour raise</li>
-							<li>Safe and healthy workplace</li>
-							<li>Better healthcare for all workers</li>
-							<li>Paid maternity/paternity leave</li>
+							<li>A $5.00 raise for all hourly Burgerville workers</li>
+							<li>Affordable, quality healthcare</li>
+							<li>A safe and healthy workplace</li>
 							<li>Fair and consistent scheduling with ample notice</li>
-							<li>Bus passes</li>
-							<li>Acceptance of the Union as a partner in improving Burgerville</li>
+							<li>A supportive, sustainable workplace including paid maternity/paternity leave, free childcare and transportation stipends</li>
+							<li>An independent organization for Burgerville workers</li>
 							</ol>
 					</div>
 
 					<div class="mailing-list col-md-4 text-center">
-						<img class="img-responsive center-block" style="width: 80%; margin-top: 10%; margin-bottom: 10%;" src="/wp-content/themes/high5/images/BWU-logo.png" alt="Burgerville Workers Union" />
+						<img class="img-responsive center-block" style="width: 80%; margin-top: 10%; margin-bottom: 10%;" src="/wp-content/themes/high5/images/BWU-logo-blue.png" alt="Burgerville Workers Union" />
 						<!-- <h2>Support our work</h2> -->
 						<a href="get-involved" class="btn btn-default btn-lg cta-submit">Get involved!</a>
 					</div>
@@ -110,9 +109,8 @@
 			<div class="row jumbotron-bkgd">
 				<div class="col-lg-1"></div>
 			  	<div class="col-lg-10 col-md-12 col-xs-12">
-				  	<p>The Burgerville Workers Union aims to deepen Burgerville’s commitment to the Pacific Northwest by making jobs at Burgerville the foundation of happy and healthy lives, and creating an independent way for Burgerville workers to connect to our communities.</p>
-					<p>We have a vision for a Burgerville where workers raise families, save money while attending school, take ownership over our work, and engage creatively and critically in our region.</p>
-					<p><strong style="font-family: 'Economica', sans-serif; font-size:1.4em;">We’re excited about it, and we hope you are too.</strong></p>
+				  	<p><strong>We are fast food workers</strong> – mothers, fathers, students, grandparents. We are young and old. Everyday going into work, we're made to feel that we're at the bottom of the American economy. We make near minimum wage and struggle to make ends meet. People say, "It's fast food, what do you expect?" <strong>But no one should expect to live in poverty.</strong></p>
+					<p>We formed our union because we matter, we work hard, we want respect, and we need a raise. We want to see the company do right by us, agree to a $5.00/hour raise, and listen to our voice.</p>
 				</div>
 				<div class="col-lg-1"></div>
 			</div>

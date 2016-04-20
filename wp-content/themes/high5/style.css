@@ -29,10 +29,10 @@ p {
 }
 
 a {
-  color: blue;
+  color: #007fb5;
 }
 a:hover, a:focus, a:active {
-  color: purple;
+  color: #005d84;
   text-decoration: underline;
 }
 
@@ -129,7 +129,7 @@ a .fa-2x {
 }
 
 .hero-content li {
-  font-size: 1.4em;
+  font-size: 1.5em;
 }
 
 .hero-wrapper {
@@ -145,14 +145,14 @@ a .fa-2x {
 }
 
 .jumbotron {
-  background-image:url('/wp-content/themes/high5/images/BurgervilleDTVancouver-blue.jpg');
+  background-image:url('/wp-content/themes/high5/images/buns.jpg');
   background-repeat:no-repeat;
   background-size:cover;
   margin-bottom: 0;
 }
 
 .jumbotron-bkgd {
-  /*background-color: rgba(0,127,181,0.2);*/
+  background-color: rgba(0,127,181,0.7);
   padding:1em;
 }
 
@@ -226,7 +226,7 @@ ul.nav li {
 }
 
 .panel {
-  background-color: #007fb5;
+  background-color: #ee362b;
 }
 
 .panel-body p {
@@ -236,17 +236,31 @@ ul.nav li {
 
 .panel-default>.panel-heading {
   color: #fff;
-  background-color: #ee352a;
+  background-color: #007fb5;
+}
+
+.panel-heading {
+  padding:0;
 }
 
 .panel-title {
   font-size: 3.5em;
   font-family: 'Economica', sans-serif;
+  text-align: center;
 }
 
 .panel-title a:hover, .panel-title a:focus, .panel-title a:active {
   color: #fff;
 }
+
+.panel-group .panel-heading+.panel-collapse>.panel-body, .panel-group .panel-heading+.panel-collapse>.list-group {
+  border: none;
+}
+
+.panel-group .panel {
+    margin-bottom: 1em;
+  }
+
 
 @media (min-width: 768px) {
   .navbar-nav-secondary {
