@@ -42,7 +42,7 @@
 
 		<header role="banner">
 
-			<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+			<nav class="navbar navbar-default" role="navigation">
   			<div class="container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->
     			<div class="navbar-header">
@@ -72,7 +72,7 @@
 
 		<?php if(is_front_page()) { ?>
 
-			<div class="container">
+			<div class="container content">
 			<div class="col-md-1"></div>
 				<div class="col-md-10 text-center">
 					<h1 style="color: #ee352a; font-size: 4em; font-weight: 400!important; text-transform: uppercase;">We are the heart of Burgerville.</h1>
