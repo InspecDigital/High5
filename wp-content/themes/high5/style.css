@@ -224,7 +224,11 @@ ul.nav li {
   float: none;
   text-transform: uppercase;
   display: inline-block;
-  width: 14%;
+  width: 12%;
+}
+
+ul.nav li.brand-center {
+  width: 15%;
 }
 
 .panel {
@@ -270,7 +274,7 @@ ul.nav li {
   }
   .navbar>.container .navbar-brand,
   .navbar>.container-fluid .navbar-brand {
-    margin-left: -85px;
+    margin-left: -55px;
   }
 }
 @media (min-width: 1200px) {

@@ -61,7 +61,7 @@
 			        <li class="active"><a href="about">About <span class="sr-only">(current)</span></a></li>
 			        <li><a href="get-involved">Get Involved</a></li>
 			        <li><a href="donate">Donate</a></li>
-							<li>&nbsp;</li>
+							<li class="brand-center">&nbsp;</li>
 			        <li><a href="news">News</a></li>
 			        <li><a href="contact">Contact</a></li>
 			        <li><a href="http://iww.org" target="_blank">I.W.W.</a></li>
