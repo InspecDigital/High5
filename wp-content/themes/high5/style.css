@@ -222,17 +222,6 @@ ul.nav {
   text-align: center;
 }
 
-ul.nav li {
-  float: none;
-  text-transform: uppercase;
-  display: inline-block;
-  width: 12%;
-}
-
-ul.nav li.brand-center {
-  width: 12%;
-}
-
 .panel {
   background-color: #ee362b;
 }
@@ -278,6 +267,17 @@ ul.nav li.brand-center {
   .navbar>.container-fluid .navbar-brand {
     margin-left: -85px;
   }
+  ul.nav li {
+    float: none;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 12%;
+  }
+
+  ul.nav li.brand-center {
+    width: 12%;
+  }
+
 }
 @media (min-width: 1200px) {
   .container { width: 970px; }
