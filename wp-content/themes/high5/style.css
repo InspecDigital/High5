@@ -202,6 +202,12 @@ a .fa-2x {
   color: red;
 }
 
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+  border-color: #fff;
+  z-index: 5000;
+  position: relative;
+}
+
 .navbar-brand {
   float: none;
   position: absolute;
