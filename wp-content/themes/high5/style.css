@@ -204,9 +204,7 @@ a .fa-2x {
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
   background: #fff;
-  border-color: #fff;
   z-index: 4000;
-  margin-top: 47px;
   position: relative;
 }
 
