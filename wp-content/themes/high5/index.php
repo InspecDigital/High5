@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-  <div id="content" class="clearfix row">
+  <div id="content" class="clearfix row show">
     <div class="container">
     <div id="main" class="<?php if(is_front_page()){echo 'main ';} ?>clearfix" role="main">
 
