@@ -152,7 +152,7 @@ a .fa-2x {
 }
 
 .jumbotron-bkgd {
-  background-color: rgba(0,127,181,0.7);
+  background-color: rgba(0,127,181,0.85);
   padding:1em;
 }
 
@@ -174,7 +174,7 @@ a .fa-2x {
   background: #f8f7f7;
   border: none;
   border-radius: 0;
-  box-shadow: 0px 0px 10px #000;
+  /* box-shadow: 0px 0px 10px #000; */
   height: 7em;
   line-height: 7em;
   margin-bottom: 50px;
@@ -309,10 +309,23 @@ ul.nav {
     font-size: 22px;
   }
 
+  .navbar {
+    background: #fff;
+  }
+
   .navbar-brand>img {
     display: block;
     width: 120px;
   }
+
+  .navbar-default .navbar-nav > li > a, .navbar-default .navbar-nav > .active > a {
+    padding-left: 35px;
+    padding-right: 0px;
+  }
+
+  .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+  z-index: 5000;
+}
 
   .panel-title {
     font-size: 2.5em;

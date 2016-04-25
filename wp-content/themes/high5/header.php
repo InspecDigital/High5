@@ -62,9 +62,9 @@
 			        <li><a href="get-involved">Get Involved</a></li>
 			        <li><a href="donate">Donate</a></li>
 							<li class="brand-center hidden-xs">&nbsp;</li>
-			        <li><a href="news">News</a></li>
+			        <li><a href="#">Media</a></li>
 			        <li><a href="contact">Contact</a></li>
-			        <li><a href="http://iww.org" target="_blank">I.W.W.</a></li>
+			        <li><a href="http://portlandiww.org" target="_blank">I.W.W.</a></li>
 			      </ul>
 
 			    </div><!-- /.navbar-collapse -->
@@ -72,6 +72,7 @@
 			</nav>
 
 		<?php if(is_front_page()) { ?>
+
 
 			<div class="container content">
 			<div class="col-md-1"></div>
@@ -81,6 +82,8 @@
 				</div>
 			<div class="col-md-1"></div>
 			</div>
+
+			<img class="img-responsive" src="/wp-content/themes/high5/images/Group.jpg" alt="Burgerville Workers Union" />
 
 			<div class="hero container hero-container">
 				<div class="hero-wrapper bg-color-primary">
@@ -93,12 +96,12 @@
 							<li>A safe and healthy workplace</li>
 							<li>Fair and consistent scheduling with ample notice</li>
 							<li>A supportive, sustainable workplace including paid maternity/paternity leave, free childcare and transportation stipends</li>
-							<li>An independent organization for Burgerville workers</li>
+							<li>An independent organization for and by Burgerville workers</li>
 							</ol>
 					</div>
 
 					<div class="mailing-list col-md-4 text-center">
-						<img class="img-responsive center-block" style="width: 80%; margin-top: 10%; margin-bottom: 10%;" src="/wp-content/themes/high5/images/BWU-logo-blue.png" alt="Burgerville Workers Union" />
+						<img class="img-responsive center-block" style="width: 80%; margin-top: 10%; margin-bottom: 10%;" src="/wp-content/themes/high5/images/BWU-logo-black.png" alt="Burgerville Workers Union" />
 						<!-- <h2>Support our work</h2> -->
 						<a href="get-involved" class="btn btn-default btn-lg cta-submit">Get involved!</a>
 					</div>
