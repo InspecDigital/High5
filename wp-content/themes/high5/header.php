@@ -83,7 +83,7 @@
 			<div class="col-md-1"></div>
 			</div>
 
-			<img class="img-responsive" src="/wp-content/themes/high5/images/Group.jpg" alt="Burgerville Workers Union" />
+			<img class="img-responsive group" src="/wp-content/themes/high5/images/Group.jpg" alt="Burgerville Workers Union" />
 
 			<div class="hero container hero-container">
 				<div class="hero-wrapper bg-color-primary">

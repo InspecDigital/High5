@@ -120,6 +120,10 @@ a .fa-2x {
   margin-top: 0;
 }
 
+.group {
+  margin: 0 auto;
+}
+
 .hero-content {
   padding: 20px;
 }
@@ -162,12 +166,22 @@ a .fa-2x {
 
 .jumbotron p {
     margin-bottom: 15px;
-    font-size: 28px;
+    font-size: 24px;
     letter-spacing: 0.05em;
     color: #fff;
     text-align: center;
     text-shadow: 2px 2px #006089;
 
+}
+
+#main h1 {
+  color: #007fb5;
+  font-size: 3em;
+}
+
+.mediapost {
+  width: 100%;
+  margin-bottom: 3em;
 }
 
 .nav {
@@ -225,6 +239,7 @@ a .fa-2x {
 .page-title {
   color: #ee362b !important;
   text-align: center;
+  display: none;
 }
 
 ul.nav {
@@ -268,6 +283,11 @@ ul.nav {
     margin-bottom: 1em;
   }
 
+  /* Hidden things on the Media page */
+  #respond {
+    display: none;
+  }
+
 
 @media (min-width: 768px) {
   .navbar-nav-secondary {
@@ -300,8 +320,16 @@ ul.nav {
     text-align: center;
   }
 
+  .bwulogo {
+    width: 50%;
+  }
+
   .fa-2x {
     margin-bottom: 1em;
+  }
+
+  .hero-content h1 {
+    font-size: 4em;
   }
 
   .hero-content p {

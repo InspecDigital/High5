@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 	<div class="container">
 		<div id="content single" class="clearfix row">
-			<div id="main" class="col-sm-8 clearfix bg-color-secondary" role="main">
+			<div id="main" class="col-sm-8 clearfix bg-color-secondary mediapost" role="main">
 				<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 
 				<?php the_post_thumbnail( 'wpbs-featured' ); ?>
@@ -50,7 +50,6 @@
 
 			</div> <!-- end #main -->
 
-			<?php get_sidebar(); // sidebar 1 ?>
 
 		</div> <!-- end #content -->
 	</div>
