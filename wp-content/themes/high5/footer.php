@@ -27,7 +27,7 @@
 				</p> -->
 
 				<div class="socialmedia">
-					<!-- <a href="http://facebook.com" style="margin-right: 1em;" target="_blank"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a><a href="http://twitter.com" style="margin-right: 1em;" target="_blank"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a><a href="http://youtube.com" style="margin-right: 1em;" target="_blank"><i class="fa fa-youtube-play fa-2x" aria-hidden="true"></i></a> -->
+					<a href="https://www.facebook.com/burgervilleworkersunion/" style="margin-right: 1em;" target="_blank"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a><a href="https://twitter.com/BVWkrUnion" style="margin-right: 1em;" target="_blank"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a><a href="https://www.youtube.com/watch?v=z5x9iIdNoNc" style="margin-right: 1em;" target="_blank"><i class="fa fa-youtube-play fa-2x" aria-hidden="true"></i></a>
 
 
 				<p class="attribution">&copy; <?php bloginfo('name'); ?></p>

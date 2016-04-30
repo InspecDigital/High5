@@ -83,7 +83,11 @@
 			<div class="col-md-1"></div>
 			</div>
 
-			<img class="img-responsive group" src="/wp-content/themes/high5/images/Group.jpg" alt="Burgerville Workers Union" />
+			<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z5x9iIdNoNc?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+			<!-- <img class="img-responsive group" src="/wp-content/themes/high5/images/Group.jpg" alt="Burgerville Workers Union" /> -->
 
 			<div class="hero container hero-container">
 				<div class="hero-wrapper bg-color-primary">
