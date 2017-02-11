@@ -62,9 +62,9 @@
 			        <li><a href="get-involved">Get Involved</a></li>
 			        <li><a href="donate">Donate</a></li>
 							<li class="brand-center hidden-xs">&nbsp;</li>
+			        <li><a href="union-benefits">Union Benefits</a></li>
 			        <li><a href="media">Media</a></li>
 			        <li><a href="contact">Contact</a></li>
-			        <li><a href="http://portlandiww.org" target="_blank">I.W.W.</a></li>
 			      </ul>
 
 			    </div><!-- /.navbar-collapse -->
